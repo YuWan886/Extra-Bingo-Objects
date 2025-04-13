@@ -1,0 +1,19 @@
+{
+    "pack":{
+        "description":"A datapack to make more mods compatible with yetanotherbingo!",
+        "pack_format":15,
+        "supported_formats":[15,100]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": [41, 61],
+                "directory": "overlay-1-20-6"
+            },
+            {
+                "formats": [71, 100],
+                "directory": "overlay-1-21-5"
+            }
+        ]
+    }
+}

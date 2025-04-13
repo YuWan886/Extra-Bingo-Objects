@@ -1,0 +1,20 @@
+{
+    "filters": [
+        {
+            "id": "minecells",
+            "name": {
+                "translate": "ebo.list.minecells",
+                "fallback": "Mine Cells"
+            },
+            "value": "+minecells +items -tedious -uncategorized -unobtainable"
+        },
+        {
+            "id": "twilightforest",
+            "name": {
+                "translate": "ebo.list.twilightforest",
+                "fallback": "The Twilight Forest"
+            },
+            "value": "+twilightforest +items -tedious -uncategorized -unobtainable"
+        }
+    ]
+}
