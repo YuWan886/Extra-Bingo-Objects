@@ -1,0 +1,21 @@
+{
+    "schemaVersion": 1,
+    "id": "extra-bingo-objects",
+    "version": "0.1.1",
+    "name": "Extra Bingo Objects",
+    "description": "A datapack to make more mods compatible with yetanotherbingo!",
+    "authors": [
+        "YuWan"
+    ],
+    "contact": {
+        "homepage": "https://modrinth.com/datapack/extra-bingo-objects",
+        "sources": "https://github.com/YuWan886/Extra-Bingo-Objects",
+        "issues": "https://github.com/YuWan886/Extra-Bingo-Objects/issues"
+    },
+    "license": "MIT",
+    "icon": "pack.png",
+    "environment": "*",
+    "depends": {
+        "yet-another-minecraft-bingo": "*"
+    }
+}

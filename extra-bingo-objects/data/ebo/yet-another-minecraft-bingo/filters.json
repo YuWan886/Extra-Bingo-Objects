@@ -15,6 +15,14 @@
                 "fallback": "The Twilight Forest"
             },
             "value": "+twilightforest +items -tedious -uncategorized -unobtainable"
+        },
+        {
+            "id": "kaleidoscope_cookery",
+            "name": {
+                "translate": "ebo.list.kaleidoscope_cookery",
+                "fallback": "Kaleidoscope Cookery"
+            },
+            "value": "+kaleidoscope_cookery +items -tedious -uncategorized -unobtainable"
         }
     ]
 }
