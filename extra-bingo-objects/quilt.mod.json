@@ -1,0 +1,29 @@
+{
+    "schema_version": 1,
+    "quilt_loader": {
+        "group": "top.ywuan",
+        "id": "extra_bingo_objects",
+        "version": "0.1.1",
+        "metadata": {
+            "name": "Extra Bingo Objects",
+            "description": "A datapack to make more mods compatible with yetanotherbingo!",
+            "contributors": {
+                "YuWan": "Member"
+            },
+            "contact": {
+                "homepage": "https://modrinth.com/datapack/extra-bingo-objects",
+                "sources": "https://github.com/YuWan886/Extra-Bingo-Objects",
+                "issues": "https://github.com/YuWan886/Extra-Bingo-Objects/issues"
+            },
+            "icon": "pack.png"
+        },
+        "intermediate_mappings": "net.fabricmc:intermediary",
+        "depends": [
+            {
+                "id": "quilt_resource_loader",
+                "versions": "*",
+                "unless": "fabric-resource-loader-v0"
+            }
+        ]
+    }
+}
