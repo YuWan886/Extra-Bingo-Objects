@@ -1,7 +1,9 @@
 # Extra-Bingo-Objects  
 
-## A datapack to make more mods compatible with yetanotherbingo!  
+## A datapack to make more mods compatible with [Yet Another Bingo](https://modrinth.com/mod/yet-another-minecraft-bingo)!  
 
+This is a datapack that adds support for more mods' items, advancements, and custom level arrangements to YetAnotherBingo.  
+It balances the difficulty of mods' objectives in the bingo.
 
 | **Supported Mods**               | **Version**            |  
 | :------------------------------- | :--------------------- |  

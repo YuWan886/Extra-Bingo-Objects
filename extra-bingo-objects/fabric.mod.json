@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "id": "extra-bingo-objects",
-    "version": "0.1.1",
+    "version": "0.1.1a",
     "name": "Extra Bingo Objects",
     "description": "A datapack to make more mods compatible with yetanotherbingo!",
     "authors": [
